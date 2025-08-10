@@ -2,6 +2,8 @@
 
 LinkedIn Post - https://www.linkedin.com/feed/update/urn:li:activity:7360372218054209537/
 
+Live Dashboard - <coming soon>
+
 Meet 'ᴀɪʀᴘᴜʀᴇ ɪɴɴᴏᴠᴀᴛɪᴏɴs', a startup passionate about solving the problem of rising air quality index by offering innovative and smart air purifiers. 
 
 Before doing that, it is interested in analyzing the situation to better understand key factors including 'Severity Mapping', 'Health Impact Correlation' and 'Demand Triggers'. 
